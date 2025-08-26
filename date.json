@@ -1,11 +1,11 @@
 [
   {
-    "title": "テスト",
-    "content": "GitHub Pages を使用してニュースサイトを作成する方法について解説します。\n\n静的サイトホスティングサービスとして、GitHubが提供するGitHub Pagesは、個人ブログやプロジェクトサイトに最適です。\n\n無料で利用でき、独自ドメインも設定可能です。HTMLファイルとJSONファイルを組み合わせることで、動的なニュースサイトを構築できます。",
-    "summary": "GitHub Pages を使用したニュースサイト構築方法",
-    "thumbnail": "https://via.placeholder.com/300x180/4A90E2/FFFFFF?text=GitHub+Pages",
-    "author": "テスト",
-    "tags": ["Test", "GitHub"],
+    "title": "このサイトについて",
+    "content": "こんにちは、Grenjaです。　今回このサイトに関して説明します。\n\n元々記事投稿サイトをして作成を計画されたサイトです。　このサイトはgithubにて手動でjsonに記事を入力する形で投稿します。投稿したい場合はレポジトリの変更権限を得てjsonに書き込みをするか、私が渡すので記事テンプレートから記事を作成していただきそれを私が反映する形となります。\n\n皆さんお知らせやプログラムアップデートの報告、記録などに使用してください。",
+    "summary": "Gr3njaNewsについて",
+    "thumbnail": "https://i0.wp.com/girlydrop.com/wp-content/uploads/2024/te/S__190922848.jpg?fit=500%2C281&ssl=1",
+    "author": "Grenja",
+    "tags": ["サイト", "説明"],
     "date": "2025-08-26"
   }
 ]
