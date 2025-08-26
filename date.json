@@ -1,0 +1,11 @@
+[
+  {
+    "title": "テスト",
+    "content": "GitHub Pages を使用してニュースサイトを作成する方法について解説します。\n\n静的サイトホスティングサービスとして、GitHubが提供するGitHub Pagesは、個人ブログやプロジェクトサイトに最適です。\n\n無料で利用でき、独自ドメインも設定可能です。HTMLファイルとJSONファイルを組み合わせることで、動的なニュースサイトを構築できます。",
+    "summary": "GitHub Pages を使用したニュースサイト構築方法",
+    "thumbnail": "https://via.placeholder.com/300x180/4A90E2/FFFFFF?text=GitHub+Pages",
+    "author": "テスト",
+    "tags": ["Test", "GitHub"],
+    "date": "2025-08-26"
+  }
+]
